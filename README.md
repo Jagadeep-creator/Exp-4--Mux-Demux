@@ -15,9 +15,11 @@ Boolean Functions
 <img width="575" height="65" alt="image" src="https://github.com/user-attachments/assets/04c2d90c-0b6b-4b35-b603-d0e10e1e4f00" />
 
 ## Design / RTL Program
+<img width="1912" height="1076" alt="Screenshot 2026-11-26 075134" src="https://github.com/user-attachments/assets/ee9931e9-95ce-4357-afb5-d0c6b3571ae6" />
 
 
 ## **Testbench Program
+<img width="1892" height="1077" alt="Screenshot 2026-11-26 075142" src="https://github.com/user-attachments/assets/bc285ce2-744f-40d4-8835-c0fc1356f9a9" />
 
 
 
@@ -87,25 +89,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 <img width="1917" height="1042" alt="Screenshot 2026-11-25 110138" src="https://github.com/user-attachments/assets/ba583089-6eec-4e57-b4de-31ac93d07b6e" />
 
 
-## Viva-Voce Questions
 
-•	What is a Multiplexer, and why is it called a 'data selector'?
-
-•	What is a Demultiplexer, and how does it differ functionally from a Multiplexer?
-
-•	How many select lines are required for an 8:1 MUX and a 1:8 DEMUX?
-
-•	Write the Boolean expression for a 4:1 Multiplexer.
-
-•	What is the purpose of a Verilog testbench?
-
-•	Why is a VCD file generated, and what does $dumpvars(0, tb) do?
-
-•	What is the purpose of ./simv?
-
-•	What is the difference between simulation and synthesis?
-
-•	How would you extend the 2:1 MUX design to a 4:1 MUX using two 2:1 MUXes?
 
 ## Result
 
